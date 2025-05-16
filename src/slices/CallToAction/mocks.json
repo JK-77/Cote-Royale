@@ -1,0 +1,54 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"eyebrow": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Fragrance Quiz"
+			},
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "The Cote Royale Fragrance Finder",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ex quis excepteur sunt nostrud anim voluptate eiusmod proident duis veniam ut ullamco ut ad. Fugiat quis cupidatat anim labore. Lorem sit labore consequat occaecat cillum ipsum nulla esse veniam aliquip ea magna tempor fugiat."
+						}
+					}
+				]
+			},
+			"button": {
+				"__TYPE__": "RepeatableContent",
+				"type": "Link",
+				"value": [
+					{
+						"__TYPE__": "LinkContent",
+						"key": "e40da557-6ac4-4001-b727-c9cc4715275b",
+						"value": {
+							"__TYPE__": "ExternalLink",
+							"url": "https://slicemachine.dev",
+							"text": "See the quiz",
+							"variant": "Secondary"
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"eyebrow": {
+				"__TYPE__": "FieldContent",
+				"value": "crack",
+				"type": "Text"
+			},
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ipsum sint fugiat officia in exercitation sunt do irure do eu. Consequat deserunt ipsum aliquip ex labore anim. Enim ipsum qui velit sint consectetur."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
